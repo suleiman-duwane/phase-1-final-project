@@ -1,0 +1,46 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Goat",
+      "weight": 40,
+      "description": "A hardy domesticated ruminant mammal that has backward-curving horns and (in the male) a beard. It is kept for its milk and meat, and noted for its lively behaviour.",
+      "imageLink": "https://cdn.britannica.com/41/119041-050-8B84B093/goat.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sheep",
+      "weight": 45,
+      "description": "Sheep or domestic sheep are a domesticated, ruminant mammal typically kept as livestock. Although the term sheep can apply to other species in the genus Ovis, in everyday",
+      "imageLink": "https://www.aces.edu/wp-content/uploads/2018/11/iStock-182344013.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camel",
+      "weight": 750,
+      "description": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as 'humps' on its back. Camels have long been domesticated and, as livestock",
+      "imageLink": "https://cdn.britannica.com/94/152294-050-92FE0C83/Arabian-dromedary-camel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cow",
+      "weight": 450,
+      "description": "Cattle are large, domesticated, bovid ungulates. They are prominent modern members of the subfamily Bovinae and the most widespread species of the genus Bos. Mature female cattle.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg"
+    },
+    {
+      "name": "Horse",
+      "weight": "600",
+      "description": "The horse is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. The horse has evolved",
+      "imageLink": "https://www.cavaletticollection.co.uk/media/wysiwyg/Horse_Behaviour_-_blog.png",
+      "id": 5
+    },
+    {
+      "name": "Zebra",
+      "weight": "600",
+      "description": "Zebras are African equines with distinctive black-and-white striped coats. There are three living species: Grévy's zebra, the plains zebra, and the mountain zebra.",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/1200px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg",
+      "id": 6
+    }
+  ]
+}

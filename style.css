@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.main-section{
+    width: 500px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+
+.title-header{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+#animal-cards{
+    padding: 18px;
+}
+
+.new-div{
+    background-color: white;
+    margin-bottom: 32px;
+    padding: 24px;
+    text-align: center;
+}
+
+.images{
+    width: 100%;
+}
+
+#my-form{
+    width: 80%;
+    background-color: white;
+    margin: 12px auto;
+    padding: 18px;
+}
+
+.one-input{
+    margin: 12px 0;
+}
+#my-form div label{
+    display: inline-block;
+    width: 100px;
+}
+
+#my-form div input {
+    width: 240px;
+}
+
+
+#my-form div input:focus{
+    outline: none;
+}
+
+#submit{
+    display: block;
+    margin: auto;
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
